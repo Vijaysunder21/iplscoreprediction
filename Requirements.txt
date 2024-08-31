@@ -1,0 +1,6 @@
+We use streamlit to deploy this project.
+The command to run in Anaconda Prompt or Command Prompt is :- streamlit run ipl_score_predictor1.py
+Requirements:- Create a model using ipl_data provided in the files and save it with a name.(Random Forest best predictions so it is used.)
+Use basic streamlit knowledge to write code in python and deploy it.
+Note:- Main 8 Teams are only present (MI,CSK,KKR,RR,DC,PBKS,RCB,SRH) because of adequate availability of data about their teams.
+It is a fun project to do and I have referred some youtube channels to learn about it completely.
